@@ -1,0 +1,35 @@
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+}
+
+.download {
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 400px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+}
+
+.stad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.madeby {
+    font-size: 75%;
+    font-family: Arial;
+}
